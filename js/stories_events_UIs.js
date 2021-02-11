@@ -60,7 +60,7 @@ function getStarHTML(story, user){
     
     return `
         <span class="star">
-            <i class="${starType} fa-star"></li>
+            <i class="${starType} fa-star"></i>
         </span>`;
 }
 
